@@ -1,0 +1,76 @@
+body{
+  background: #DDDFDF;
+  color: #463F3A;
+  font-size: 15px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+h1{
+  font-family: 'Fira Sans', sans-serif;
+  color: #FFB140;
+  font-weight: weight;
+  font-size: 70px;
+  text-decoration: underline;
+}
+h2 {
+  font-family: 'Fira Sans', sans-serif;
+  color: #FFB140;
+  font-weight: weight;
+  font-size: 40px;
+}
+a {
+  color: #C792DF;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner {
+  text-align: center;
+  background-image: url("https://picsum.photos/200/300/?gravity=east");
+  padding: 150px;
+  background-size: cover;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+color: white;
+font-size: 100px;
+font-family: 'Fira Sans', sans-serif;
+}
+
+#banner p {
+color: white;
+font-size: 70px;
+font-family: 'Fira Sans', sans-serif; 
+}
+
+#footer {
+  text-align: center;
+  background-image: url("https://picsum.photos/200/300/?gravity=east");
+  padding: 150px;
+  background-size: cover;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#footer p {
+color: white;
+font-size: 100px;
+font-family: 'Fira Sans', sans-serif;
+}
+
+.card{
+  font-weight: lighter;
+}
+
+#footer a {
+  color: white;
+  font-size: 50px;
+  padding: 20px
+}
+#footer a:hover {
+  color: white;
+}
